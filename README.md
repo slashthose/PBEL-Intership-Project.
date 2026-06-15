@@ -3,7 +3,7 @@
 This project is a smart conversational assistant built with IBM Watson Assistant, designed to help users discover books by their favorite authors, explore new genres, and read summaries before diving into a new read. It integrates natural conversation flow with structured data, enabling personalized recommendations.
 
 
-LIVE DEMO : https://slashthose.github.io/PBEL-project/
+LIVE DEMO : https://pbel-intership-project-dlx40gcm1-slashthoses-projects.vercel.app/
 ________________________________________
 ✨ Features -
 
