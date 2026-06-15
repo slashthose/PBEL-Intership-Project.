@@ -36,7 +36,7 @@ Each author has 4-5 books with summarized descriptions.
 
 WEBSITE FOR THE ASSISTAN :
 
-<img width="1888" height="886" alt="Screenshot 2025-07-10 213528" src="https://github.com/user-attachments/assets/3b447445-7fc8-46f2-8ac3-8e2646b2683e" />
+<img width="1888" height="886" alt="Screenshot 2025-07-10 213528" src="https://slashthose.github.io/PBEL-Intership-Project./" />
 
 
 ASSISTANT - SHELFIE: 
